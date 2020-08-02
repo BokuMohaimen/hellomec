@@ -1,0 +1,8 @@
+name: HelloWorld
+version: @version@
+main: mohaimen_ksr.helloworld.HelloWorld
+api-version: 1.16
+authors: [Mohaimen_Ksr]
+description: test
+commands:
+  h:
